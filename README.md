@@ -2,6 +2,8 @@
 
 I'm a passionate backend software engineer who loves building things with code, exploring new technologies, and contributing to open-source projects.
 
+Top contributor of [vertica-python](https://clickpy.clickhouse.com/dashboard/vertica-python).
+
 ### 🛠️ Skills & Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
